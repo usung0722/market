@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901454548730",
+    "firebase_url": "https://donglend2018.firebaseio.com",
+    "project_id": "donglend2018",
+    "storage_bucket": "donglend2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901454548730:android:76bd15c697d4baf6",
+        "android_client_info": {
+          "package_name": "com.example.lee.donglend2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901454548730-uev67bnrs6r2mo6q2ml5rh8cksf97a9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lee.donglend2018",
+            "certificate_hash": "c0ab24f47207f2a15ca5023c0ba4293d02b9de90"
+          }
+        },
+        {
+          "client_id": "901454548730-f85q7balm93s73u09ahac2u0u9qmofti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRuDI0Fdmmo-2RYWXDX7-NxSXS3LY6PVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901454548730-f85q7balm93s73u09ahac2u0u9qmofti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

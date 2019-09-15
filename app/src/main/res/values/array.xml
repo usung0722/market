@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selete">
+        <item>팝니다</item>
+        <item>삽니다</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DongLend2018</string>
+    <color name="bg">#FE9A2E</color>
+    <color name="w">#FFFFFF</color>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBX7phufgUzGiHGz7LyXmJQvK5i6awqAlo</string>
+
+</resources>
