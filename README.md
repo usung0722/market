@@ -4,7 +4,7 @@
 ##### JAVA, Android Studio, Apache, Firebase, MySQL
 
 ## 구현 기능
-*  로그인
+* 로그인
   * Firebase를 통한 로그인
   * 자동로그인 기억 기능
 * 검색기능
