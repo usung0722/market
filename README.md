@@ -1,5 +1,5 @@
 # DongLend APK
-###### 안드로이드 스튜디오와 JAVA를 이용하여 중고마켓 어플을 구현.
+안드로이드 스튜디오와 JAVA를 이용하여 중고마켓 어플을 구현.
 ## Skills
 ##### JAVA, Android Studio, Apache, Firebase, MySQL
 
@@ -14,6 +14,18 @@
 * 게시물 등록,읽기
   * 제목, 내용, 가격, 물건사진, 원하는 거래 위치 등록가능
   * 게시글 클릭시 확인가능
+  
+개발인원 : 3명
+
+개발기간 : 30일
+
+운영환경 : Apach Tomcat, Oracle
+
+사용환경 : JAVA, php
+
+사용 툴 : Android Studio
+
+사용API : Firebase
 
  
  
